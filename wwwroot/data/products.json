@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Id": 1,
+    "Title": "Product1",
+    "Price": 111,
+    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg"
+
+  },
+  {
+    "Id": 2,
+    "Title": "Product2",
+    "Price": 50,
+    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg"
+
+  },
+  {
+    "Id": 3,
+    "Title": "Product3",
+    "Price": 10,
+    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png"
+
+  },
+  {
+    "Id": 4,
+    "Title": "Product4",
+    "Price": 5030,
+    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg"
+
+  },
+  {
+    "Id": 5,
+    "Title": "Product5",
+    "Price": 65,
+    "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png"
+
+  },
+  {
+    "Id": 6,
+    "Title": "Product6",
+    "Price": 22,
+    "img": "https://user-images.githubusercontent.com/41929050/61567055-142c1c80-aa33-11e9-96ff-9fbac6413625.png"
+
+  },
+  {
+    "Id": 7,
+    "Title": "Product7",
+    "Price": 223,
+    "img": "https://user-images.githubusercontent.com/41929050/61567056-142c1c80-aa33-11e9-8682-10065d338145.png"
+
+  },
+  {
+    "Id": 8,
+    "Title": "Product8",
+    "Price": 25,
+    "img": "https://user-images.githubusercontent.com/41929050/61567052-13938600-aa33-11e9-9a88-cd842073ba44.jpg"
+  }
+]
+  
